@@ -12,4 +12,4 @@ git clone https://github.com/fbcotter/pytorch_wavelets &>/dev/null
 cd pytorch_wavelets
 pip install . &>/dev/null
 cd ..
-echo Done!!
+echo Done!
